@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+ipykernel # for jupyter environment
+folium # for map visual
+plotly
